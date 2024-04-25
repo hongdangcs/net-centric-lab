@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Chameleon",
+    "description": "This colorful lizard can change its skin color to blend in."
+  },
+  {
+    "name": "Hippopotamus",
+    "description": "This massive mammal spends most of its day submerged in water."
+  },
+  {
+    "name": "Kangaroo",
+    "description": "Known for hopping, this pouched mammal is native to Australia."
+  },
+  {
+    "name": "Peacock",
+    "description": "This flamboyant bird has a stunning display of colorful feathers."
+  },
+  {
+    "name": "Jellyfish",
+    "description": "This translucent creature drifts through the ocean with stinging tentacles."
+  },
+  {
+    "name": "Giraffe",
+    "description": "The tallest land animal, with a long neck for reaching high leaves."
+  },
+  {
+    "name": "Hedgehog",
+    "description": "This spiny mammal curls up into a ball to protect itself."
+  },
+  {
+    "name": "Penguin",
+    "description": "Flightless birds with black and white feathers, they waddle on land and swim in the ocean."
+  },
+  {
+    "name": "Butterfly",
+    "description": "This colorful insect with delicate wings starts life as a caterpillar."
+  },
+  {
+    "name": "Snake",
+    "description": "This legless reptile with a long, slender body can be venomous."
+  },
+  {
+    "name": "Owl",
+    "description": "This nocturnal bird has excellent eyesight and can turn its head almost all the way around."
+  },
+  {
+    "name": "Dolphin",
+    "description": "This intelligent mammal is known for its playful behavior and high jumps."
+  },
+  {
+    "name": "Rhinoceros",
+    "description": "This large, thick-skinned mammal has a horn on its nose."
+  },
+  {
+    "name": "Bat",
+    "description": "The only mammal that can fly, with wings made of skin and fur."
+  },
+  {
+    "name": "Spider",
+    "description": "This eight-legged creature spins webs to catch its prey."
+  },
+  {
+    "name": "Crocodile",
+    "description": "This large reptile with sharp teeth lives in water and on land."
+  },
+  {
+    "name": "Lion",
+    "description": "The king of the jungle, this powerful cat lives in prides."
+  },
+  {
+    "name": "Koala",
+    "description": "This cuddly marsupial with big ears spends most of its time in eucalyptus trees."
+  },
+  {
+    "name": "Turtle",
+    "description": "This reptile has a hard shell it can retreat into for protection."
+  },
+  {
+    "name": "Hummingbird",
+    "description": "The smallest bird in the world, it can hover in mid-air while feeding on nectar."
+  }
+]

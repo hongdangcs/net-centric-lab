@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "username": "stacy",
+      "password": "lsrjXOipsCRBeL8o5JZsLOG4OFcjqWprg4hYzdbKCh4=",
+      "fullname": "Stacy Smith",
+      "email": [
+        "stacy@gmail.com"
+      ],
+      "address": [
+        "1234 Elm St",
+        "Springfield, IL 62701"
+      ]
+    },
+    {
+      "username": "joe",
+      "password": "lsrjXOipsCRBeL8o5JZsLOG4OFcjqWprg4hYzdbKCh4=",
+      "fullname": "Joe Johnson",
+      "email": [
+        "joe@email.com"
+      ],
+      "address": [
+        "1234 Elm St",
+        "Springfield, IL 62701"
+      ]
+    },
+    {
+      "username": "jane",
+      "password": "LIihpB+misA5c/a0gHmkMCsYHfDsDiHVRPVoBIdcORk=",
+      "fullname": "Jane Doe",
+      "email": [
+        "jane@email.com"
+      ],
+      "address": [
+        "1234 Elm St",
+        "Springfield, IL 62701"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+Lab1:
+
+		// Question 1:
+
+		for i := 0; i < 1000; i++ {
+			length := 20
+			dna1 := lab1.GenerateDNASample(length)
+			dna2 := lab1.GenerateDNASample(length)
+			dist := lab1.HammingDistance(dna1, dna2)
+			if dist != -1 {
+				fmt.Println("Pair ", (i + 1), ": DNA1: ", dna1, " DNA2: ", dna2)
+				fmt.Println("Harming distance: ", dist)
+
+			} else {
+				fmt.Println("DNA sequences are not of equal length")
+			}
+		}
+
+		// Question 2:
+
+		sampleString := "cabbage"
+		fmt.Printf("Scrabble score: %d", lab1.ScrabbleScore(sampleString))
+
+		// Question 3:
+
+		input := " 4539 3195 0343 6467"
+		if lab1.LunhFomularChecker(input) {
+			println("Valid")
+		} else {
+			println("Invalid")
+		}
+
+		// Question 4:
+		lab1.GenerateLab4_4()
+
+		// Question 5:
+		fmt.Println(lab1.IsValidPairs("fmt.Println(a.TypeOf(xyz)){[ ]}"))
+
+Lab 2:
+
+	// Question 1:
+
+	lab2.WordCountPrint("sample.txt")
+
+	// Question 2:
+
+	lab2.SimulateLibrary(100, 30)
+
